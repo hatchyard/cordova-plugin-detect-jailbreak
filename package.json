@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-detect-jailbreak",
+  "version": "1.0.0",
+  "description": "Jailbreak detection library for iOS devices",
+  "cordova": {
+    "id": "cordova-plugin-detect-jailbreak",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Champika Mendis",
+  "license": "ISC"
+}
